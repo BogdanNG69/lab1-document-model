@@ -1,0 +1,13 @@
+{
+  "id": "DOC-002",
+  "type": "vacation_request",
+  "title": "Заява на відпустку без збереження заробітної плати",
+  "author": "Шевченко Олег Ігорович",
+  "created_at": "2026-09-10",
+  "status": "submitted",
+  "version": 1,
+  "employee_id": "EMP-102",
+  "department": "IT відділ",
+  "vacation_start": "2026-10-05",
+  "vacation_end": "2026-10-08"
+}

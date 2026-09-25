@@ -1,0 +1,13 @@
+{
+  "id": "DOC-004",
+  "type": "vacation_request",
+  "title": "Заява на відпустку у зв'язку з весіллям",
+  "author": "Мельник Тарас Володимирович",
+  "created_at": "2026-09-20",
+  "status": "rejected",
+  "version": 1,
+  "employee_id": "EMP-104",
+  "department": "Відділ продажів",
+  "vacation_start": "2026-10-20",
+  "vacation_end": "2026-10-22"
+}
